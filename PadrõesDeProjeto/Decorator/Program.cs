@@ -11,3 +11,4 @@ orcamento.AdicionaItem(new Item("LAPIS", 125));
 Imposto imposto = new ISS( new ICMS());
 
 Console.WriteLine(imposto.Calcula(orcamento));
+Console.WriteLine(imposto.Calcula(orcamento));
