@@ -1,0 +1,15 @@
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\bin\Debug\net6.0\Design Patterns.exe
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\bin\Debug\net6.0\Design Patterns.deps.json
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\bin\Debug\net6.0\Design Patterns.runtimeconfig.json
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\bin\Debug\net6.0\Design Patterns.dll
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\bin\Debug\net6.0\ref\Design Patterns.dll
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\bin\Debug\net6.0\Design Patterns.pdb
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\obj\Debug\net6.0\Design Patterns.csproj.AssemblyReference.cache
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\obj\Debug\net6.0\Design Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\obj\Debug\net6.0\Design Patterns.AssemblyInfoInputs.cache
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\obj\Debug\net6.0\Design Patterns.AssemblyInfo.cs
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\obj\Debug\net6.0\Design Patterns.csproj.CoreCompileInputs.cache
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\obj\Debug\net6.0\Design Patterns.dll
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\obj\Debug\net6.0\ref\Design Patterns.dll
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\obj\Debug\net6.0\Design Patterns.pdb
+C:\Users\paulo.silva\Documents\Estudos\Design Patterns\obj\Debug\net6.0\Design Patterns.genruntimeconfig.cache

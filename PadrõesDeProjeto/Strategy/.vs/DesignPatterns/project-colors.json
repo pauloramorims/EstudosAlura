@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93fb65b1-12a7-40da-983d-872b28b699ad": {
+      "ProjectGuid": "93fb65b1-12a7-40da-983d-872b28b699ad",
+      "DisplayName": "Strategy",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "3d8bace7-8eae-42d4-901a-474a0ab7d612": {
+      "ProjectGuid": "3d8bace7-8eae-42d4-901a-474a0ab7d612",
+      "DisplayName": "ChainOfResponsability",
+      "ColorIndex": 1
+    },
+    "4606a189-44ec-478b-ae3a-c5a28c8a3d47": {
+      "ProjectGuid": "4606a189-44ec-478b-ae3a-c5a28c8a3d47",
+      "DisplayName": "TemplateMethod",
+      "ColorIndex": 2
+    },
+    "4f2e7b31-0f12-4023-91c1-9bbbd8ab2ba4": {
+      "ProjectGuid": "4f2e7b31-0f12-4023-91c1-9bbbd8ab2ba4",
+      "DisplayName": "Decorator",
+      "ColorIndex": 3
+    },
+    "c4e2cf9e-6ebb-4647-b05a-8cb864d7b7e8": {
+      "ProjectGuid": "c4e2cf9e-6ebb-4647-b05a-8cb864d7b7e8",
+      "DisplayName": "ChainOfResponsability",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
