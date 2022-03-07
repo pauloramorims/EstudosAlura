@@ -1,0 +1,36 @@
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\bin\Debug\net6.0\ChainOfResponsability.exe
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\bin\Debug\net6.0\ChainOfResponsability.deps.json
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\bin\Debug\net6.0\ChainOfResponsability.runtimeconfig.json
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\bin\Debug\net6.0\ChainOfResponsability.dll
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\bin\Debug\net6.0\ref\ChainOfResponsability.dll
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\bin\Debug\net6.0\ChainOfResponsability.pdb
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\obj\Debug\net6.0\ChainOfResponsability.csproj.AssemblyReference.cache
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\obj\Debug\net6.0\ChainOfResponsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\obj\Debug\net6.0\ChainOfResponsability.AssemblyInfoInputs.cache
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\obj\Debug\net6.0\ChainOfResponsability.AssemblyInfo.cs
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\obj\Debug\net6.0\ChainOfResponsability.csproj.CoreCompileInputs.cache
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\obj\Debug\net6.0\ChainOfResponsability.dll
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\obj\Debug\net6.0\ref\ChainOfResponsability.dll
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\obj\Debug\net6.0\ChainOfResponsability.pdb
+C:\Users\paulo.silva\Documents\Estudos\Chain of Responsability\obj\Debug\net6.0\ChainOfResponsability.genruntimeconfig.cache
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\bin\Debug\net6.0\ChainOfResponsability.exe
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\bin\Debug\net6.0\ChainOfResponsability.deps.json
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\bin\Debug\net6.0\ChainOfResponsability.runtimeconfig.json
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\bin\Debug\net6.0\ChainOfResponsability.dll
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\bin\Debug\net6.0\ref\ChainOfResponsability.dll
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\bin\Debug\net6.0\ChainOfResponsability.pdb
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\obj\Debug\net6.0\ChainOfResponsability.csproj.AssemblyReference.cache
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\obj\Debug\net6.0\ChainOfResponsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\obj\Debug\net6.0\ChainOfResponsability.AssemblyInfoInputs.cache
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\obj\Debug\net6.0\ChainOfResponsability.AssemblyInfo.cs
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\obj\Debug\net6.0\ChainOfResponsability.csproj.CoreCompileInputs.cache
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\obj\Debug\net6.0\ChainOfResponsability.dll
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\obj\Debug\net6.0\ref\ChainOfResponsability.dll
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\obj\Debug\net6.0\ChainOfResponsability.pdb
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\obj\Debug\net6.0\ChainOfResponsability.genruntimeconfig.cache
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\bin\Debug\net6.0\Strategy.deps.json
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\bin\Debug\net6.0\Strategy.runtimeconfig.json
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\bin\Debug\net6.0\Strategy.exe
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\bin\Debug\net6.0\Strategy.dll
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\bin\Debug\net6.0\Strategy.pdb
+C:\Users\paulo.silva\Documents\Estudos\ChainofResponsability\obj\Debug\net6.0\ChainOfResponsability.csproj.CopyComplete

@@ -1,0 +1,11 @@
+﻿--Comecando os testes: 
+	Adicione as referências de projeto da outra solução Alura.Estacionamento
+
+Padrão AAA
+	Arrange - Preparação do ambiente/cenário. 
+		Ex: Pra eu testar o método Acelerar eu preciso ter um veículo, ent eu instancio-o
+	Act - é o método que eu quero testar
+	Assert - É a verificação do resultado obtido através de um incremento
+
+	CLI
+		dotnet test, no diretorio da solucao de teste
