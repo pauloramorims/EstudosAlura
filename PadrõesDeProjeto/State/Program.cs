@@ -7,13 +7,16 @@ using DesignPatterns;
 //podem ser composto por outros impostos. O Decorator introduz a flexibilidade na composição
 //desses comportamentos, bastando escolher no momento da instanciação, quais instancias
 //serão utilizadas para realizar o trabalho.
-var orcamento = new Orcamento(600);
+Orcamento reforma = new Orcamento(500.0);
 
-orcamento.AdicionaItem(new Item("LAPIS", 125));
-orcamento.AdicionaItem(new Item("LAPIS", 250));
-orcamento.AdicionaItem(new Item("LAPIS", 125));
+reforma.AplicaDescontoExtra();
+Console.WriteLine(reforma.Valor); // imprime 475,00 pois descontou 5%
+reforma.Aprova(); // aprova nota!
 
-Imposto imposto = new ISS( new ICMS());
+reforma.AplicaDescontoExtra();
+Console.WriteLine(reforma.Valor); // imprime 465,50 pois descontou 2%
 
-Console.WriteLine(imposto.Calcula(orcamento));
-Console.WriteLine(imposto.Calcula(orcamento));
+reforma.Finaliza();
+
+// reforma.AplicaDescontoExtra(); lancaria excecao, pois não pode dar desconto nesse estado
+// reforma.Aprova(); lança exceção, pois não pode ir para aprovado

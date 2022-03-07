@@ -30,7 +30,12 @@
       "ProjectGuid": "c4e2cf9e-6ebb-4647-b05a-8cb864d7b7e8",
       "DisplayName": "ChainOfResponsability",
       "ColorIndex": 4
+    },
+    "41db4ae7-5f61-4943-82de-f330e6239cb8": {
+      "ProjectGuid": "41db4ae7-5f61-4943-82de-f330e6239cb8",
+      "DisplayName": "State",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
